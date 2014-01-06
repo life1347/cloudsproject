@@ -220,12 +220,5 @@ def create_proxy(now):
 
 
 
-	
-
-	
-
-
-
-
 
 #create_proxy(0)
